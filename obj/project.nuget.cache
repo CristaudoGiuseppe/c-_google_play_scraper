@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmhTEV84pKbXVc8tnYszIQ0zReVR4t36KsAvQ3ZuzFGNJS1UWVVcBc10PIysh2P6Ewuvfq9Aq3kv8f2+sKOF4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hiimb\\source\\repos\\MyAppFree\\MyAppFree\\MyAppFree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiimb\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\hiimb\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\hiimb\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\hiimb\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

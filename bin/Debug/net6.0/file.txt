@@ -1,0 +1,3 @@
+2022-12-23 11:34:37.6057|DEBUG|MyAppFree.Program|DEBUG PARTITO
+2022-12-23 11:34:37.6384|INFO|MyAppFree.Program|INFO: "Mattepuffo"
+2022-12-23 11:34:37.6559|INFO|MyAppFree.Program|This is an info log message

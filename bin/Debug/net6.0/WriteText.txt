@@ -1,0 +1,6 @@
+{
+  "Name": "Candy Crush Saga",
+  "Category": "Puzzle",
+  "Stars": 45.0,
+  "Versione corrente": "1.242.1.1"
+}
